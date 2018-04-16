@@ -7,5 +7,7 @@ public class InsProvider {
 		
 		System.out.println("This is provider module");
 		
+		//Added New data
+		
 	}
 }
